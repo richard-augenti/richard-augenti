@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Richard Augenti  
 🚀 **Cloud Security Architect | DevOps Engineer | AI & Automation Enthusiast**  
 
-I specialize in **building secure, scalable cloud environments** with **AWS, Terraform, Kubernetes, and AI-driven security solutions**. Passionate about **DevSecOps, automation, and cost optimization**.
+I specialize in **building secure, scalable cloud environments** with **AWS, Azure, & GCP. I spend most of my days workeing with Terraform, Containers, Kubernetes, and AI solutions.**. Passionate about **AI, AI Security, DevSecOps, automation, and cost optimization**.
 
 📌 **Current Project:** AI-powered AWS security & cost monitoring platform  
 
