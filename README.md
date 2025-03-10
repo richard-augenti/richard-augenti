@@ -29,6 +29,6 @@ I specialize in **building secure, scalable cloud environments** with **AWS, Ter
 - 💼 **LinkedIn:** [linkedin.com/in/richardaugenti](https://linkedin.com/in/richardaugenti)  
 - 📧 **Email:** richard.augenti@rivia.io  
 
-💡 **Looking for collaborations in**: AI-driven security & cloud automation!
+💡 **Looking for collaborations in**: AI-driven development, AI Security & Cloud Automation!
 
 ---
