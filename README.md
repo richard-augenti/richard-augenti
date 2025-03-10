@@ -11,8 +11,8 @@ I specialize in **building secure, scalable cloud environments** with **AWS, Ter
 - ☁️ **Cloud:** AWS, Azure, & GCP  
 - 📦 **DevOps & Automation:** Terraform, Helm, GitHub Actions, AWS CodePipeline  
 - 🔐 **Security & Compliance:** CIS, NIST, ISO 42001, IAM Best Practices  
-- 🖥 **Infrastructure:** Kubernetes, Docker, ECS Fargate  
-- 🤖 **AI & Automation:** AI-driven security audits, cost optimization  
+- 🖥 **Containers:** Kubernetes, Docker, EKS, ECS, AKS, and GKE  
+- 🤖 **AI & MLOps Automation:** AI-driven development, AI security, AI Cost Optimization
 
 ---
 
