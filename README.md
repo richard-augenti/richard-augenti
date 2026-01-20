@@ -25,7 +25,6 @@ I specialize in **building secure, scalable cloud environments** with **AWS, Azu
 ---
 
 ## 📫 Let's Connect  
-- 🌐 **Website:** [rivia.io](https://rivia.io)  
 - 💼 **LinkedIn:** [linkedin.com/in/richardaugenti](https://linkedin.com/in/richardaugenti)  
 - 📧 **Email:** richard.augenti@rivia.io  
 
